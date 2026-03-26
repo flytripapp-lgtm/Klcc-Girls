@@ -52,7 +52,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
               marginBottom: '0.4rem',
             }}
           >
-            Wanderlust
+            Klcc Girls
           </div>
           <p
             style={{
