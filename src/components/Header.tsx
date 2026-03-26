@@ -20,7 +20,7 @@ export default function SiteHeader() {
             fontWeight: 400,
           }}
         >
-          The World's Finest Travel Writing
+          KLCC GIRLS ESCORT SERVICES AND ONLINE DATING WEB APPS.
         </div>
         <Link to="/">
           <h1
@@ -35,7 +35,7 @@ export default function SiteHeader() {
               cursor: 'pointer',
             }}
           >
-            Wanderlust
+            Klcc Girls
           </h1>
         </Link>
         <div
