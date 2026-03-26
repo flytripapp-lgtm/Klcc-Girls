@@ -64,7 +64,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
               color: 'rgba(247,243,237,0.45)',
             }}
           >
-            The world is a book. Those who do not travel read only one page.
+            Discover premium KLCC escort entertainment in Kuala Lumpur. Discreet, elegant companionship for dinners, events & nightlife..
           </p>
         </footer>
         <VacayAssistant />
